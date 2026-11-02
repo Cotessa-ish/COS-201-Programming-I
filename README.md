@@ -9,7 +9,7 @@ Created and executed my first Java programme.
 ### File
 - week01/FirstProgram.java
 ### Skills Practised
-  -Java class and main method
-  -Output statements
-  -Compilation and execution
-  -GitHub version control
+  - Java class and main method
+  - Output statements
+  - Compilation and execution
+  - GitHub version control
