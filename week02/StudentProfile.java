@@ -1,0 +1,10 @@
+public class StudentProfile {
+public static void main(String[] args) {
+System.out.println("COURSE: COS 201");
+System.out.println("COURSE TITLE: Computer Programming I");
+System.out.println("PROGRAMME: Software Engineering");
+System.out.println("WEEK: 2");
+System.out.println("TOPIC: Development Environment and Java");
+System.out.println("GOAL: To set up my coding environment and run my first Java program.");
+}
+}
